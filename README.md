@@ -5,6 +5,9 @@ A test repository for testing remote commands
 Steven is a great lecturer
 
 Steven is a good lecturer
-hahahhaha
+<<<<<<< HEAD
+# Did do Dumb
+This is how we roll
+ahhaha
 hahhaha
 ahhahas
