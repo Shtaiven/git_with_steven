@@ -5,6 +5,5 @@ A test repository for testing remote commands
 Steven is a great lecturer
 
 Steven is a good lecturer
-hahahhaha
-hahhaha
-ahhahas
+# Nature Announcement
+Due to nature day we will not kill ants anymore ;_;
